@@ -6,7 +6,7 @@
 
 ## Project Overview
 
-This project analyses candidate registration data for health care professional examinations. It covers over 1,000 candidates across five countries — Nigeria, Ghana, Liberia, Gambia, and Sierra Leone — and provides a structured view of revenue inflows, candidate demographics, exam type distribution, and discipline-level participation.
+This project analyses candidate registration data for health care professional examinations. It covers over 1,000 candidates across five countries — Nigeria, Ghana, Liberia, Gambia, and Sierra Leone, and provides a structured view of revenue inflows, candidate demographics, exam type distribution, and discipline-level participation.
 
 The goal was to transform a raw registration dataset into an interactive dashboard that gives examination administrators and stakeholders clear, actionable insight at a glance.
 
@@ -31,9 +31,9 @@ Stakeholders gained instant visibility into dominant candidate markets (Nigeria 
 ```
 healthcare-exam-analytics/
 │
-├── HEALTHCARE_EXAMS_ANALYSIS.xlsx   # Raw and cleaned candidate registration dataset
-├── Ag_screen_shot.jpg                    # Final dashboard screenshot
-└── README.md                             # Project documentation (this file)
+├── HEALTHCARE_EXAMS_ANALYSIS.xlsx   
+├── Ag_screen_shot.jpg                    
+└── README.md                             
 ```
 
 ---
